@@ -11,3 +11,7 @@ Some person will talk about some thing, and you should be there. That person has
 
 + [migrated the original wiki content to this repo's wiki](https://github.com/qm-spatial-audio/noticeboard/wiki/Home/a2a1a17a8c077032fedde20464ab7f72f9d7774c)
 + [added the wiki](../../wiki/)
+
+## meeting notes
+
+18.04.18
