@@ -13,5 +13,4 @@ Some person will talk about some thing, and you should be there. That person has
 + [added the wiki](../../wiki/)
 
 ## meeting notes
-
-18.04.18
++ [stored here](https://github.com/qm-spatial-audio/noticeboard/wiki/Meeting-notes)
